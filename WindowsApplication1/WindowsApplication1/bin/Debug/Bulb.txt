@@ -1,0 +1,59 @@
+Uninstaller	32,612	61%
+App.config	117	30%
+ApplicationEvents.vb	12	-300%
+bin\Debug\ReactionTest.exe	75,873	77%
+bin\Debug\ReactionTest.exe.config	0	-
+bin\Debug\ReactionTest.pdb	20,943	78%
+bin\Debug\ReactionTest.vshost.exe	13,259	41%
+bin\Debug\ReactionTest.vshost.exe.config	0	-
+bin\Debug\ReactionTest.xml	387	78%
+bin\Debug\WindowsApplication1.vshost.exe.config	0	-
+bin\Debug\WindowsApplication1.vshost.exe.manifest	269	46%
+favicon.ico	375	99%
+Form1.Designer.vb	4,040	90%
+Form1.resx	2,962	96%
+Form1.vb	2,223	94%
+Form2.Designer.vb	1,590	79%
+Form2.resx	2,612	96%
+Form2.vb	861	79%
+Form3.Designer.vb	1,420	74%
+Form3.resx	2,902	95%
+Form3.vb	187	43%
+My Project\app.manifest	972	64%
+My Project\Application.Designer.vb	682	62%
+My Project\Application.myapp	275	47%
+My Project\AssemblyInfo.vb	549	54%
+My Project\Resources.Designer.vb	1,104	79%
+My Project\Resources.resx	1,684	78%
+My Project\Settings.Designer.vb	946	69%
+My Project\Settings.settings	202	28%
+obj\Debug\DesignTimeResolveAssemblyReferences.cache	1,830	77%
+obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache	1,321	83%
+obj\Debug\ReactionTest.exe	0	-
+obj\Debug\ReactionTest.pdb	0	-
+obj\Debug\ReactionTest.xml	0	-
+obj\Debug\TempPE\My Project.Resources.Designer.vb.dll	3,438	59%
+obj\Debug\WindowsApplication1.Form1.resources	738	98%
+obj\Debug\WindowsApplication1.Form2.resources	0	-
+obj\Debug\WindowsApplication1.Form3.resources	1,099	97%
+obj\Debug\WindowsApplication1.Resources.resources	46,798	62%
+obj\Debug\WindowsApplication1.SplashScreen1.resources	144	20%
+obj\Debug\WindowsApplication1.vbproj.FileListAbsolute.txt	184	87%
+obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache	738	51%
+Resources\1000_Stipendii.JPG	16,945	9%
+Resources\chlampichka.jpg	12,251	52%
+Resources\green1.jpg	11,629	53%
+Resources\kpExtreme-Light-Grey-757607-B29-TL.jpg	1,638	45%
+Resources\red1.jpg	0	-
+Resources\zlampichka.jpg	0	-
+SplashScreen1.Designer.vb	1,036	61%
+SplashScreen1.resx	1,505	75%
+SplashScreen1.vb	614	56%
+WindowsApplication1.vbproj	1,741	77%
+WindowsApplication1.vbproj.user	248	33%
+
+Result :
+    Number of files: 44
+    Total uncompressed size: 1142498 bytes
+    Total compressed size: 272955 bytes
+    Install program size: 435148 bytes
